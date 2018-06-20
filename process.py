@@ -85,7 +85,6 @@ EMBEDDING_SIZE = 50
 static_embeddings = np.zeros([VOCAB_SIZE, EMBEDDING_SIZE])
 
 for word, token in tqdm.tqdm(word_to_token.items()):
-    # 用glove词向量填充，如果没有对应的词向量，则用随机数填充
     word_vector = word_to_vec.get(word, 0.2 * np.random.random(EMBEDDING_SIZE) - 0.1)
     static_embeddings[token, :] = word_vector
 
