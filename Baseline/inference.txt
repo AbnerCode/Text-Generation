@@ -1,0 +1,28 @@
+存在的问题：生成的故事同一个
+[output]Yanice Sunny Sunny my was her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her
+[expect]kyle s mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+[output]Yanice Sunny Sunny was was her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her
+[expect]Jans lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+[output]I was was a a to to to to to to to to to to to to to to to to to to to to her to to to to
+[expect]kyle s mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+[output]I was was a a to to to to to to to to to to to to to to to to to to to to her to to to to
+[expect]Jans lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+[output]I was a a a to a a to his his her a a a the the the the the to a a a a a a a a a and and and and and and and
+[expect]kyle s mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+[output]I was a a a to a a to his his her a a a the the the the the to a a a a a a a a a and and and and and and and
+[expect]Jans lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+[output]I was in the the to who to cook his school.,"During on a he a a to he to to to a blew a to to to to to to he he he he
+[expect]kyle s mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+[output]I was in the the to who to cook his school.,"During on a he a a to he to to to a blew a to to to to to to he he he he
+[expect]Jans lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+[output]Dan was a a for to as he dad.,"His his listened, to go he a a the walking And a a a surprise.",He a to to to her her and to to to the
+[expect]kyle s mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+[output]Dan was a a for to as he dad.,"His his listened, to go he a a the walking And a a a surprise.",He a to to to her her and to to to the
+[expect]Jans lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[output]Dan was working the for to play his games dad his night.,They arrived he a into the long he to a his surprise.",He received a to a a shiny trampled ended it's the he spent
+
+[expect]kyle s mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[output]Dan was working at the to play his games dad listened, to arrived he a into the morning, he the a his surprise.",He and a to of a shiny trampled ended it's the the spent
+[expect]Jans lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
