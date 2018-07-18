@@ -1,0 +1,73 @@
+模型：seq2seq LSTM+GRU batch_size=1 
+epoch:70 
+前20%采用teacher forcing
+loss在epoch60后没有明显下降
+存在的问题：
+1.对于给定的动词+名词 并没有很好的输出
+2.是否teacher forcing使用存在问题
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was was was was was the to the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I was was was was was to to the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was talking to my crush today.She continued to complain about guys flirting suddenly realized he had suddenly realized he had a date that night."Since Frank was already already walking a him and spent the the back and as he to coworker spent the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I was talking to my crush today.She continued to complain about guys flirting suddenly realized he had suddenly realized he had a date that night."Since Frank was already already walking a him and spent the the back and as he to coworker spent the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was in love with out she barged how to ride lawn mowers."After she realized she forgot something."It was quite sunny and she forgot back sunglasses.Sunny got got back heading headed back sunglasses a headed got back sunglasses headed got back sunglasses headed got back and got got on the a a got a got got a headed the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I was in love with out she barged how to ride lawn mowers."After she realized she forgot something."It was quite sunny and she forgot back sunglasses.Sunny got got back heading headed back sunglasses a headed got back sunglasses headed got back sunglasses headed got back sunglasses headed got back and got on the a a got got a got got
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]Jane was working at a a a a a a a a a a a a a a was the a a to was a a a a to was a a a a a was the a a to was a a a went to make a a a went a a got a went a a his a
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]Jane was working working show walks long walks was was a a a went to Saturday one was a a a a a was the a a a a a a a was to a a a a up a a a cave a a a he react."Luckily a react."Luckily a a a a a a a a a a
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was talking had the the his the the the a a his got on a her I his a got I a her I a
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]Brenda opened the fridge used a place lawn themselves the themselves
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was working path."Hal's dog strained so hard the cat the cat sunny cat ran minutes.Finally cat hard the leash broke!"He cat ran minutes.Finally minutes.Finally him him the cat the cat the cat the cat beach.
+ minutes.Finally him him the cat the cat rides minutes.Finally him him
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I knew of to eat."However there were leftovers."She mixed it up in an attempt to make lunch."Since the place needed meat to using meat to told to make and decided to make and decided to make and decided to make to make and decided to make to make and decided to make to make and decided to make to make
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was working at diner."Suddenly diner."Suddenly diner."Suddenly diner."Suddenly diner."Suddenly she forgot to was walking was the and to got for propose and her boyfriend walking own.Carrie was walking for over for and to walking for over her was walking for walking for over was minutes.Finally upset
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I knew of a young man who man shivering who man shivering who man shivering who man shivering who man shivering got won from place from mowers."After he won he was."Frank suddenly a a a
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]Morgan enjoyed long walks on the beach.She to go snorkeling on second day."While snorkeling he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he boyfriend he he he he he he he he he he he he he he
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I knew of a young man who won he had a already a the crashed the a a a a a homeless got themselves he on to using drugs."He blew lot lot he went on drugs."He blew lot lot lot lot revoked blew drugs."He blew revoked blew revoked blew revoked blew revoked blew revoked blew revoked blew revoked blew revoked
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
