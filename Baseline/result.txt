@@ -1,0 +1,112 @@
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]year watched dunk contest friends dunks were put show fans!I have seen kind dunks life!Zach beat finals
+[output]was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]was day was clung mother leg left had stay while started take part class end day was had gone
+[output]was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]It was Tyler's first day of Kindergarten.,He was very nervous.,"He clung to his mother's leg, but she finally left and he had to stay.","After a little while, he started to take part in the class.","By the end of the day, he was glad he had gone!"
+
+[input]wanted find dress anniversary dinner ordered dress looked catalog dress arrived was try dress was zipper broke was returned dress refund
+[output]was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kyle mom had been military was found pet watermelon corner garden painted eyes mouth pet marker grandmother gave yarn glue hair hugged went have dinner
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]lamp broke decided get lamp went store found lamp liked bought lamp
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]year watched dunk contest friends dunks were put show fans!I have seen kind dunks life!Zach beat finals
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]was day was clung mother leg left had stay while started take part class end day was had gone
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]It was Tyler's first day of Kindergarten.,He was very nervous.,"He clung to his mother's leg, but she finally left and he had to stay.","After a little while, he started to take part in the class.","By the end of the day, he was glad he had gone!"
+
+[input]wanted find dress anniversary dinner ordered dress looked catalog dress arrived was try dress was zipper broke was returned dress refund
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the
+[expect]kyle's mom had been in the military and was very proud of it.,She found her pet watermelon Mel in the corner of the garden.,She painted eyes and a mouth onto her pet with the marker.,Her grandmother gave her yarn to glue on for hair.,"Lucy hugged Me goodnight, and went inside to have dinner."
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the
+[expect]Jan's lamp broke.,Jan decided to get a new lamp.,He went to the store.,He found a lamp he liked.,He bought the lamp.
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the
+[expect]This year I watched the NBA dunk contest with my friends.,The dunks were out of this world!,Aaron Gordon and Zach LaVine put on a great show for the fans!,I have never seen those kind of dunks before in my life!,Zach LaVine barely beat Aaron Gordon in the finals.
+
