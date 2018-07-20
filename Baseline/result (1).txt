@@ -1,3 +1,10 @@
+batch_size = 8
+epoch = 20
+teacher forcing
+存在的问题：
+1.词语较少的无法生成完整句子
+2.loss无法下降
+
 [input]was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
 [output]Jill to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
 [expect] 
