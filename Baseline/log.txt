@@ -1,26 +1,22 @@
 /home/ubuntu/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
   from ._conv import register_converters as _register_converters
-epoch 1, loss 0.064326, 
-[input]  mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
-[input]  got spot face did worry got school spots had spread spots itched was sent chickenpox
-[input]  had exam decided go grade was could skip exam did read syllabus failed class was thought
-epoch 10, loss 0.061531, 
-[input]  mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
-[input]  got spot face did worry got school spots had spread spots itched was sent chickenpox
-[input]  had exam decided go grade was could skip exam did read syllabus failed class was thought
-epoch 20, loss 0.060909, 
-[input]  mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
-[input]  got spot face did worry got school spots had spread spots itched was sent chickenpox
-[input]  had exam decided go grade was could skip exam did read syllabus failed class was thought
-epoch 30, loss 0.060837, 
-[input]  mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
-[input]  got spot face did worry got school spots had spread spots itched was sent chickenpox
-[input]  had exam decided go grade was could skip exam did read syllabus failed class was thought
-epoch 40, loss 0.060674, 
-[input]  mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
-[input]  got spot face did worry got school spots had spread spots itched was sent chickenpox
-[input]  had exam decided go grade was could skip exam did read syllabus failed class was thought
-epoch 50, loss 0.060340, 
-[input]  mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
-[input]  got spot face did worry got school spots had spread spots itched was sent chickenpox
-[input]  had exam decided go grade was could skip exam did read syllabus failed class was thought
+epoch 1, loss 0.098050, 
+[input]  was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[input]  hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[input]  went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[input]  used be friends talked found started ignoring talked
+epoch 10, loss 0.092521, 
+[input]  was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[input]  hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[input]  went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[input]  used be friends talked found started ignoring talked
+epoch 20, loss 0.080917, 
+[input]  was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[input]  hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[input]  went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[input]  used be friends talked found started ignoring talked
+epoch 30, loss 0.078890, 
+[input]  was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[input]  hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[input]  went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[input]  used be friends talked found started ignoring talked

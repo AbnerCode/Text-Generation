@@ -1,0 +1,70 @@
+[input]was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[output]Jill to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[output]Jill to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[output]Jill to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]used be friends talked found started ignoring talked
+[output]Jill to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[output]My was a to go a to the the lake to go to the park.
+
+[expect] 
+
+[input]hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[output]My was a to go a to the the lake to go to the park.
+ and the road.,She the other and the the the and the floor, were the other side the other side and the the park.
+
+[expect] 
+
+[input]went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[output]My was a to go a to the the lake to the lake and the the rocks cough the park.
+
+[expect] 
+
+[input]used be friends talked found started ignoring talked
+[output]My was a to go a to go there.,She to the house, to the beach.",I and the country, prom and the time,
+[expect] 
+
+[input]was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[output]I was a Night baby.,Her baby.,Her careers.,She's cheese.,I is.",Her Rap released released her her her that's her was he class.,Tina her her her her her her her her her her her her her her her her her her her that's glanced the car.,Gina and walking."
+ the test."
+ spied the house the jokes he was the restaurant's of the year!,"The
+[expect] 
+
+[input]hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[output]I was a Night baby.,Her baby.,Her careers.,She's cheese.,I is.",Her Rap released her asked is.",Her Rap released class.,Tina Rap released class.,Tina he of ninth next.,She her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her
+[expect] 
+
+[input]went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[output]I was a Night baby.,Her careers.,She's cheese.,I is.",Her Rap released her blackjack soup.,He tipped was the swings.,Mom of her her summoned the ingredients of the year!,"The
+[expect] 
+
+[input]used be friends talked found started ignoring talked
+[output]I was a Night baby.,Her baby.,Her careers.,She's cheese.,I is.",Her Rap released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released released album her store.,Everything is.",Her Rap released idea.","He
+[expect] 
+
+[input]was working grill restaurant order cheeseburger came placed food grill waited minutes noticed burger was burned removed burned food replaced
+[output]I was to buy to buy to buy to buy to buy a bike.,Her supplies.,Ching Ming for work.,He end, to Mexico.",He a a the summer.,"At summer's the summer.,"At was the top applesauce.,"One the summer.,"At was the top applesauce.,"One the summer.,"At was the top to prepare the tank.,"When was the top to prepare the tank.,"When to prepare the cake.,"After cooked,
+[expect] 
+
+[input]hated going internship hated coworkers day met man who was shoe shiner building had conversation started visit was shining shoes decided internship was guy metp
+[output]I was to buy to buy to buy to buy bike.,Her bike.,Her supplies.,Ching Ming a the bathroom.,John the taste.,He applesauce.,"One the top to get the top to work.,It the top to prepare the tank.,"When was the top was the top of the the was was the top applesauce.,"One the top to prepare the cake.,"After the dead.,The the top was the
+[expect] 
+
+[input]went deli sandwich way forgot money went proceeded go deli way noticed deli was fire was forgot wallet
+[output]I was to buy to buy to buy to buy bike.,Her bike.,Her supplies.,Ching Ming the taste.,He South Korea.,Then the bathroom.,John the teacher.,Reggie line shopper the teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie
+[expect] 
+
+[input]used be friends talked found started ignoring talked
+[output]I was to buy to buy to buy to buy bike.,Her bike.,Her supplies.,Ching Ming for the bathroom.,John the taste.,He to the bathroom.,John the dead.,The the bathroom.,John the teacher.,Reggie tank.,"When was the bathroom.,John the teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie teacher.,Reggie
+[expect] 
+
