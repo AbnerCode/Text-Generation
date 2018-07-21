@@ -1,0 +1,36 @@
+
+[input]was had issue classes were located was story one was side would have rush try make class asked principal change period class was
+[output]I was a senior wrestler.He was dull, to find a commercial of the citizens and got a commercial.The and went to the shore.There, and was a c of the citizens and the cake
+[expect] 
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a senior wrestler.He was dull, to find a schools of the helicopter.We and got a commercial.The and got the door.As and was a poem and got the competition, and got the competition, and was a poem and was a poem and I was a poem and I was a poem and I was a poem and I was
+[expect] 
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]The was a new Alexis, was going to the bar and bought a cabin bar and bought the cabin car.I've and he was a competition of the main of the competition, and got the competition, and got the top.She and got the top.She and got the top.She and got the top.She and got the top.She and got the top.She and
+[expect] 
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a senior wrestler.He was dull, to find a commercial of the citizens was very excited the lot of the competition, and got the road.There and the raise.I'm and got the new car.I've and was a cousin, and the raise.I'm and was a poem and I was a poem and I was a poem and I was a poem
+[expect] 
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a senior wrestler.He was dull, to find a schools of the helicopter.We and got a commercial.The and went to the store and bought the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a senior wrestler.He was dull, to find a schools of the helicopter.We and got a commercial.The and went to the store and bought the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]The was a new Alexis, was a competition outage was a same author to the thunderstorm.Most and Lillian the coin, was very nice!She the concert of the slice and got the field.The of the nightHe and the team
+[expect]
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a senior wrestler.He was dull, to find a schools of the helicopter.We and got the commercial.The and went to the store and bought the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and got the crayons and
+[expect]
+
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a new Alexis, was a competition outage was a exercises of a competition, was very excited a flashlight flight.The
+[expect]
