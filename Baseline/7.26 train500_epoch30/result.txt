@@ -1,0 +1,1350 @@
+epoch: 1
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]to he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 2
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 3
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 4
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 5
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 6
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 7
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 8
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 9
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 10
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]My was to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 11
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 12
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]My was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 13
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]My was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 14
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 15
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 16
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 17
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 18
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 19
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 20
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 21
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 22
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 23
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 24
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 25
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 26
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 27
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 28
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 29
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+
+epoch: 30
+[input]parents were was doctors told parents was parents understood decided make change got diet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Dan's parents were overweight. Dan was overweight as well. The doctors told his parents it was unhealthy. His parents understood and decided to make a change. They got themselves and Dan on a diet.
+
+[input]had learned ride bike did have bike would sneak rides sister bike got hill crashed wall bike frame bent got gash leg
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Carrie had just learned how to ride a bike. She didn't have a bike of her own. Carrie would sneak rides on her sister's bike. She got nervous on a hill and crashed into a wall. The bike frame bent and Carrie got a deep gash on her leg. 
+
+[input]enjoyed walks beach boyfriend decided go walk walking mile something happened decided propose boyfriend boyfriend was upset did propose
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] Morgan enjoyed long walks on the beach. She and her boyfriend decided to go for a long walk. After walking for over a mile, something happened. Morgan decided to propose to her boyfriend. Her boyfriend was upset he didn't propose to her first.
+
+[input]was working diner customer barged counter began yelling food was taking did know react coworker intervened calmed man
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Jane was working at a diner. Suddenly, a customer barged up to the counter. He began yelling about how long his food was taking. Jane didn't know how to react. Luckily, her coworker intervened and calmed the man down.
+
+[input]was talking crush today continued complain guys flirting decided agree what says listened got got text asked can hang tomorrow
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]I was talking to my crush today. She continued to complain about guys flirting with her. I decided to agree with what she says and listened to her patiently. After I got home, I got a text from her. She asked if we can hang out tomorrow.
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had been drinking beer got call girlfriend asking was realized had date night was bit could drive spent rest night drinking beers
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Frank had been drinking beer. He got a call from his girlfriend, asking where he was. Frank suddenly realized he had a date that night. Since Frank was already a bit drunk, he could not drive. Frank spent the rest of the night drinking more beers.
+
+[input]was vacation decided go snorkeling day snorkeling saw cave went cave was terrified found shark!Dave swam could shark caught ate
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dave was in the Bahamas on vacation. He decided to go snorkeling on his second day. While snorkeling, he saw a cave up ahead. He went into the cave, and he was terrified when he found a shark! Dave swam away as fast as he could, but the shark caught and ate Dave.
+
+[input]enjoyed going beach stepped car realized forgot something was forgot sunglasses got car heading mall found sunglasses headed beach
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sunny enjoyed going to the beach. As she stepped out of her car, she realized she forgot something. It was quite sunny and she forgot her sunglasses. Sunny got back into her car and heading towards the mall. Sunny found some sunglasses and headed back to the beach.
+
+[input]was widowed mom found man discovered siblings did feel flew visit mom mom husband mom was love was nothing dad went wondered parents marriage
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Sally was happy when her widowed mom found a new man. She discovered her siblings didn't feel the same. Sally flew to visit her mom and her mom's new husband. Although her mom was obviously in love, he was nothing like her dad. Sally went home and wondered about her parents' marriage.
+
+[input]hit golf ball watched go ball bounced grass sand trap pretended ball landed green friends were paying attention believed snuck ball made putt feet
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]Dan hit his golf ball and watched it go. The ball bounced on the grass and into the sand trap. Dan pretended that his ball actually landed on the green. His friends were not paying attention so they believed him. Dan snuck a ball on the green and made his putt from 10 feet.
+

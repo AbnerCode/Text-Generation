@@ -1,0 +1,1350 @@
+epoch: 1
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 2
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 3
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to and and
+[expect]
+
+epoch: 4
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 5
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the
+[expect]
+
+epoch: 6
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 7
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 8
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 9
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 10
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 11
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the
+[expect]
+
+epoch: 12
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 13
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 14
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a a a a a a a to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 15
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 16
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the
+[expect]
+
+epoch: 17
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 18
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 19
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to
+[expect]
+
+epoch: 20
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 21
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to the the the the the the
+[expect]
+
+epoch: 22
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a a to to to to to the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 23
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 24
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 25
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 26
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to the
+[expect]
+
+epoch: 27
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was a a a a a a a a a a a a a a a the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 28
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 29
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the
+[expect]
+
+epoch: 30
+[input]mother wanted pierce baby ears was tradition pierce girl babies ears birth was idea wanted wait tried talk mother who did understand decided pierce baby ears
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]got spot face did worry got school spots had spread spots itched was sent chickenpox
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]had exam decided go grade was could skip exam did read syllabus failed class was thought
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect] 
+
+[input]Reggie was living apartment sister came took look cats Reggie fell love cat named was could be cats Reggie adopted live
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was riding bike school someone pushed bike stole arrived school saw thief beat thief tried get bike was suspended saw bike
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]was student who heard mturk campus could believe was website let people make money signed mturk account started making money while was being hits suspended mturk account months
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had seen father years obtained phone number operator called left message called arranged meeting ate laughed days
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]strove be dancer focused perfection practiced master movement ballet audition danced precision was outshone dancer filled passion saw emotion is artistry mechanics
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]kept waking work week wanted change sleeping schedule started exercise hour bed would get exercising was fix sleeping schedule
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]had job interview tomorrow morning stayed updating resume arrived interview minutes interviewer noted arrival time clipboard gained confidence compliment given interviewer
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+
+[input]year go cherry picking wake beat crowd arrive get buckets head cherry trees pick hours end bring 20lbs cherries
+[output]I was to to to to to to to to to to to to to to to the the the the the the the the the the the the the the the the the the the the the the the
+[expect]
+

@@ -1,0 +1,360 @@
+epoch: 1 :batch_size_loss
+[ 8.50938034]
+<NDArray 1 @gpu(0)>
+epoch: 1 :batch_size_loss
+[ 8.49968815]
+<NDArray 1 @gpu(0)>
+epoch: 1 :batch_size_loss
+[ 8.03685379]
+<NDArray 1 @gpu(0)>
+epoch: 1 :batch_size_loss
+[ 7.40906811]
+<NDArray 1 @gpu(0)>
+epoch: 2 :batch_size_loss
+[ 6.95190525]
+<NDArray 1 @gpu(0)>
+epoch: 2 :batch_size_loss
+[ 6.86007071]
+<NDArray 1 @gpu(0)>
+epoch: 2 :batch_size_loss
+[ 7.01229668]
+<NDArray 1 @gpu(0)>
+epoch: 2 :batch_size_loss
+[ 7.13911343]
+<NDArray 1 @gpu(0)>
+epoch: 3 :batch_size_loss
+[ 6.84991169]
+<NDArray 1 @gpu(0)>
+epoch: 3 :batch_size_loss
+[ 6.84380817]
+<NDArray 1 @gpu(0)>
+epoch: 3 :batch_size_loss
+[ 6.83771753]
+<NDArray 1 @gpu(0)>
+epoch: 3 :batch_size_loss
+[ 6.92281437]
+<NDArray 1 @gpu(0)>
+epoch: 4 :batch_size_loss
+[ 6.74802828]
+<NDArray 1 @gpu(0)>
+epoch: 4 :batch_size_loss
+[ 6.74531269]
+<NDArray 1 @gpu(0)>
+epoch: 4 :batch_size_loss
+[ 6.82682991]
+<NDArray 1 @gpu(0)>
+epoch: 4 :batch_size_loss
+[ 6.8056469]
+<NDArray 1 @gpu(0)>
+epoch: 5 :batch_size_loss
+[ 6.71561193]
+<NDArray 1 @gpu(0)>
+epoch: 5 :batch_size_loss
+[ 6.74550009]
+<NDArray 1 @gpu(0)>
+epoch: 5 :batch_size_loss
+[ 6.76332808]
+<NDArray 1 @gpu(0)>
+epoch: 5 :batch_size_loss
+[ 6.8103323]
+<NDArray 1 @gpu(0)>
+epoch: 6 :batch_size_loss
+[ 6.70316935]
+<NDArray 1 @gpu(0)>
+epoch: 6 :batch_size_loss
+[ 6.75864029]
+<NDArray 1 @gpu(0)>
+epoch: 6 :batch_size_loss
+[ 6.70901966]
+<NDArray 1 @gpu(0)>
+epoch: 6 :batch_size_loss
+[ 6.77105093]
+<NDArray 1 @gpu(0)>
+epoch: 7 :batch_size_loss
+[ 6.69534206]
+<NDArray 1 @gpu(0)>
+epoch: 7 :batch_size_loss
+[ 6.64936686]
+<NDArray 1 @gpu(0)>
+epoch: 7 :batch_size_loss
+[ 6.74639368]
+<NDArray 1 @gpu(0)>
+epoch: 7 :batch_size_loss
+[ 6.75695133]
+<NDArray 1 @gpu(0)>
+epoch: 8 :batch_size_loss
+[ 6.63871908]
+<NDArray 1 @gpu(0)>
+epoch: 8 :batch_size_loss
+[ 6.67832375]
+<NDArray 1 @gpu(0)>
+epoch: 8 :batch_size_loss
+[ 6.7400651]
+<NDArray 1 @gpu(0)>
+epoch: 8 :batch_size_loss
+[ 6.73924589]
+<NDArray 1 @gpu(0)>
+epoch: 9 :batch_size_loss
+[ 6.62378502]
+<NDArray 1 @gpu(0)>
+epoch: 9 :batch_size_loss
+[ 6.64479637]
+<NDArray 1 @gpu(0)>
+epoch: 9 :batch_size_loss
+[ 6.71218157]
+<NDArray 1 @gpu(0)>
+epoch: 9 :batch_size_loss
+[ 6.77406836]
+<NDArray 1 @gpu(0)>
+epoch: 10 :batch_size_loss
+[ 6.63277054]
+<NDArray 1 @gpu(0)>
+epoch: 10 :batch_size_loss
+[ 6.7047267]
+<NDArray 1 @gpu(0)>
+epoch: 10 :batch_size_loss
+[ 6.66243553]
+<NDArray 1 @gpu(0)>
+epoch: 10 :batch_size_loss
+[ 6.70541716]
+<NDArray 1 @gpu(0)>
+epoch: 11 :batch_size_loss
+[ 6.65258455]
+<NDArray 1 @gpu(0)>
+epoch: 11 :batch_size_loss
+[ 6.62552452]
+<NDArray 1 @gpu(0)>
+epoch: 11 :batch_size_loss
+[ 6.6943326]
+<NDArray 1 @gpu(0)>
+epoch: 11 :batch_size_loss
+[ 6.68428612]
+<NDArray 1 @gpu(0)>
+epoch: 12 :batch_size_loss
+[ 6.60769701]
+<NDArray 1 @gpu(0)>
+epoch: 12 :batch_size_loss
+[ 6.61878586]
+<NDArray 1 @gpu(0)>
+epoch: 12 :batch_size_loss
+[ 6.67726517]
+<NDArray 1 @gpu(0)>
+epoch: 12 :batch_size_loss
+[ 6.71405697]
+<NDArray 1 @gpu(0)>
+epoch: 13 :batch_size_loss
+[ 6.61773777]
+<NDArray 1 @gpu(0)>
+epoch: 13 :batch_size_loss
+[ 6.62393141]
+<NDArray 1 @gpu(0)>
+epoch: 13 :batch_size_loss
+[ 6.64499569]
+<NDArray 1 @gpu(0)>
+epoch: 13 :batch_size_loss
+[ 6.70192909]
+<NDArray 1 @gpu(0)>
+epoch: 14 :batch_size_loss
+[ 6.59368801]
+<NDArray 1 @gpu(0)>
+epoch: 14 :batch_size_loss
+[ 6.59605885]
+<NDArray 1 @gpu(0)>
+epoch: 14 :batch_size_loss
+[ 6.66466808]
+<NDArray 1 @gpu(0)>
+epoch: 14 :batch_size_loss
+[ 6.70770073]
+<NDArray 1 @gpu(0)>
+epoch: 15 :batch_size_loss
+[ 6.57836056]
+<NDArray 1 @gpu(0)>
+epoch: 15 :batch_size_loss
+[ 6.62999725]
+<NDArray 1 @gpu(0)>
+epoch: 15 :batch_size_loss
+[ 6.61749506]
+<NDArray 1 @gpu(0)>
+epoch: 15 :batch_size_loss
+[ 6.69061756]
+<NDArray 1 @gpu(0)>
+epoch: 16 :batch_size_loss
+[ 6.5778842]
+<NDArray 1 @gpu(0)>
+epoch: 16 :batch_size_loss
+[ 6.60092449]
+<NDArray 1 @gpu(0)>
+epoch: 16 :batch_size_loss
+[ 6.61744452]
+<NDArray 1 @gpu(0)>
+epoch: 16 :batch_size_loss
+[ 6.68731785]
+<NDArray 1 @gpu(0)>
+epoch: 17 :batch_size_loss
+[ 6.58688164]
+<NDArray 1 @gpu(0)>
+epoch: 17 :batch_size_loss
+[ 6.60807896]
+<NDArray 1 @gpu(0)>
+epoch: 17 :batch_size_loss
+[ 6.6208663]
+<NDArray 1 @gpu(0)>
+epoch: 17 :batch_size_loss
+[ 6.63815784]
+<NDArray 1 @gpu(0)>
+epoch: 18 :batch_size_loss
+[ 6.56377077]
+<NDArray 1 @gpu(0)>
+epoch: 18 :batch_size_loss
+[ 6.6218648]
+<NDArray 1 @gpu(0)>
+epoch: 18 :batch_size_loss
+[ 6.59237194]
+<NDArray 1 @gpu(0)>
+epoch: 18 :batch_size_loss
+[ 6.65288067]
+<NDArray 1 @gpu(0)>
+epoch: 19 :batch_size_loss
+[ 6.59137487]
+<NDArray 1 @gpu(0)>
+epoch: 19 :batch_size_loss
+[ 6.56988144]
+<NDArray 1 @gpu(0)>
+epoch: 19 :batch_size_loss
+[ 6.60330725]
+<NDArray 1 @gpu(0)>
+epoch: 19 :batch_size_loss
+[ 6.61976242]
+<NDArray 1 @gpu(0)>
+epoch: 20 :batch_size_loss
+[ 6.60466003]
+<NDArray 1 @gpu(0)>
+epoch: 20 :batch_size_loss
+[ 6.53368902]
+<NDArray 1 @gpu(0)>
+epoch: 20 :batch_size_loss
+[ 6.59784508]
+<NDArray 1 @gpu(0)>
+epoch: 20 :batch_size_loss
+[ 6.62411976]
+<NDArray 1 @gpu(0)>
+epoch: 21 :batch_size_loss
+[ 6.50811815]
+<NDArray 1 @gpu(0)>
+epoch: 21 :batch_size_loss
+[ 6.54759741]
+<NDArray 1 @gpu(0)>
+epoch: 21 :batch_size_loss
+[ 6.64596748]
+<NDArray 1 @gpu(0)>
+epoch: 21 :batch_size_loss
+[ 6.62110376]
+<NDArray 1 @gpu(0)>
+epoch: 22 :batch_size_loss
+[ 6.53073359]
+<NDArray 1 @gpu(0)>
+epoch: 22 :batch_size_loss
+[ 6.57746077]
+<NDArray 1 @gpu(0)>
+epoch: 22 :batch_size_loss
+[ 6.54611206]
+<NDArray 1 @gpu(0)>
+epoch: 22 :batch_size_loss
+[ 6.6722579]
+<NDArray 1 @gpu(0)>
+epoch: 23 :batch_size_loss
+[ 6.57283926]
+<NDArray 1 @gpu(0)>
+epoch: 23 :batch_size_loss
+[ 6.54738379]
+<NDArray 1 @gpu(0)>
+epoch: 23 :batch_size_loss
+[ 6.57300186]
+<NDArray 1 @gpu(0)>
+epoch: 23 :batch_size_loss
+[ 6.63076115]
+<NDArray 1 @gpu(0)>
+epoch: 24 :batch_size_loss
+[ 6.55768633]
+<NDArray 1 @gpu(0)>
+epoch: 24 :batch_size_loss
+[ 6.55271912]
+<NDArray 1 @gpu(0)>
+epoch: 24 :batch_size_loss
+[ 6.57094002]
+<NDArray 1 @gpu(0)>
+epoch: 24 :batch_size_loss
+[ 6.59453821]
+<NDArray 1 @gpu(0)>
+epoch: 25 :batch_size_loss
+[ 6.52595234]
+<NDArray 1 @gpu(0)>
+epoch: 25 :batch_size_loss
+[ 6.48456526]
+<NDArray 1 @gpu(0)>
+epoch: 25 :batch_size_loss
+[ 6.63725901]
+<NDArray 1 @gpu(0)>
+epoch: 25 :batch_size_loss
+[ 6.63221788]
+<NDArray 1 @gpu(0)>
+epoch: 26 :batch_size_loss
+[ 6.52147722]
+<NDArray 1 @gpu(0)>
+epoch: 26 :batch_size_loss
+[ 6.52636528]
+<NDArray 1 @gpu(0)>
+epoch: 26 :batch_size_loss
+[ 6.54025173]
+<NDArray 1 @gpu(0)>
+epoch: 26 :batch_size_loss
+[ 6.63138437]
+<NDArray 1 @gpu(0)>
+epoch: 27 :batch_size_loss
+[ 6.48003578]
+<NDArray 1 @gpu(0)>
+epoch: 27 :batch_size_loss
+[ 6.54378939]
+<NDArray 1 @gpu(0)>
+epoch: 27 :batch_size_loss
+[ 6.57453346]
+<NDArray 1 @gpu(0)>
+epoch: 27 :batch_size_loss
+[ 6.60146284]
+<NDArray 1 @gpu(0)>
+epoch: 28 :batch_size_loss
+[ 6.4957881]
+<NDArray 1 @gpu(0)>
+epoch: 28 :batch_size_loss
+[ 6.49998045]
+<NDArray 1 @gpu(0)>
+epoch: 28 :batch_size_loss
+[ 6.5814085]
+<NDArray 1 @gpu(0)>
+epoch: 28 :batch_size_loss
+[ 6.59423542]
+<NDArray 1 @gpu(0)>
+epoch: 29 :batch_size_loss
+[ 6.49479914]
+<NDArray 1 @gpu(0)>
+epoch: 29 :batch_size_loss
+[ 6.53954792]
+<NDArray 1 @gpu(0)>
+epoch: 29 :batch_size_loss
+[ 6.53885841]
+<NDArray 1 @gpu(0)>
+epoch: 29 :batch_size_loss
+[ 6.60217476]
+<NDArray 1 @gpu(0)>
+epoch: 30 :batch_size_loss
+[ 6.50612307]
+<NDArray 1 @gpu(0)>
+epoch: 30 :batch_size_loss
+[ 6.50079727]
+<NDArray 1 @gpu(0)>
+epoch: 30 :batch_size_loss
+[ 6.50803041]
+<NDArray 1 @gpu(0)>
+epoch: 30 :batch_size_loss
+[ 6.61300135]
+<NDArray 1 @gpu(0)>
